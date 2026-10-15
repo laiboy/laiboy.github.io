@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanlai Zhang HomePage"
-description              : "My Homepage"
+title                    : "张艳来 | Yanlai Zhang"
+description              : "北京航空航天大学交通科学与工程学院教授、博士生导师，研究方向：扑翼微型飞行器设计、扑翼空气动力学、扑翼飞行稳定性与控制"
 repository               : "Laiboy/laiboy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yanlai Zhang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Yanlai Zhang is..."
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  name             : "张艳来 (Yanlai Zhang)"
+  avatar           : "images/android-chrome-512x512.png"  # TODO: 替换为证件照，如 "images/profile.jpg"
+  bio              : "北京航空航天大学交通科学与工程学院教授、博士生导师，研究方向为扑翼微型飞行器设计、扑翼空气动力学与飞行稳定性与控制"
+  location         : "北京，中国"
+  employer         : "北京航空航天大学"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=c0veCRgAAAAJ"
   email            : "zhangyanlai@buaa.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yanlai-Zhang"  # 请核实是否为您本人的主页
   uri              :
   bitbucket        :
   codepen          :
