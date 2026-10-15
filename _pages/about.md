@@ -32,6 +32,7 @@ redirect_from:
 代表性成果发表于 *AIAA Journal*、*Chinese Journal of Aeronautics*、*Journal of Fluid Mechanics*、*Physics of Fluids*、*Physical Review E、Bioinspiration & Biomimetics* 等期刊，Google Scholar 引用 **<span id='total_cit'>1169+</span>** 次（<a href='https://scholar.google.com/citations?user=c0veCRgAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=c0veCRgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>）。
 
 # 🔥 新闻动态
+- *2026.09*: &nbsp;🎉 指导学生获第十一届“创客中国”智能仿生机器人中小企业创新创业大赛一等奖。
 - *2026.06*: &nbsp;🎉 晋升教授（教研系列），继续担任博士生导师。
 - *2025.12*: &nbsp;团队成果“微型扑翼飞行器的仿生设计技术及应用”获教育部科学研究优秀成果奖（工程技术研究成果奖）一等奖（排名 2/6）。
 - *2025.12*: &nbsp;受邀在第八届“中国航空科学技术大会”仿生飞行技术论坛作邀请报告。
